@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Roblero"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Dan_Bird.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Python Portfolio"
   location         : "Portland, Oregon"
   email            :
